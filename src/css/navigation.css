@@ -1,0 +1,9 @@
+#navigation .theHinhAnh {
+  border: 2px solid black;
+  border-radius: 12px;
+}
+
+.btn_primary {
+  padding: 10px 20px;
+  @apply bg-blue-500 rounded-lg;
+}/*# sourceMappingURL=navigation.css.map */

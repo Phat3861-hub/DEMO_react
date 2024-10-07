@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.layout-wrapper {
+  @apply bg-white p-5 rounded-xl
+}
+
+.my-container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* 
+img {
+  @apply h-24
+} */
